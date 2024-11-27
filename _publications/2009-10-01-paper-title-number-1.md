@@ -7,7 +7,7 @@ excerpt: 'Snow water equivalent (SWE) is crucial for assessing snow mass in vari
 date: 2024-09-23
 venue: 'Proceedings, International Snow Science Workshop, Tromsø, Norway, 2024'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://arc.lib.montana.edu/snow-science/item.php?id=3276)'
+paperurl: 'https://arc.lib.montana.edu/snow-science/item.php?id=3276'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
