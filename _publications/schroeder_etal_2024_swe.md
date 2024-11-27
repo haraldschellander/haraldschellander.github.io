@@ -1,5 +1,5 @@
 ---
-title: "CONTINUOUS SNOW WATER EQUIVALENT MONITORING ON GLACIERS USING COSMIC RAY NEUTRON SENSOR TECHNOLOGY A CASE STUDY ON HINTEREISFERNER, AUSTRIA"
+title: "Continuous Snow Water Equivalent Monitoring on Glaciers using Cosmic Ray Neutron Sensor Technology: A Case Study on Hintereisferner, Austria"
 collection: publications
 category: manuscripts
 permalink: /publication/schroeder_etal_2024_swe.html
@@ -8,5 +8,5 @@ date: 2024-09-23
 venue: 'Proceedings, International Snow Science Workshop, Tromso, Norway, 2024'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arc.lib.montana.edu/snow-science/item.php?id=3276'
-citation: 'Schroeder M., Prinz, R., Binder, M., Winkler, M, Schellander, H. (2024). &quot;CONTINUOUS SNOW WATER EQUIVALENT MONITORING ON GLACIERS USING COSMIC RAY NEUTRON SENSOR TECHNOLOGY A CASE STUDY ON HINTEREISFERNER, AUSTRIA.&quot; <i>Proceedings, International Snow Science Workshop, Tromso, Norway, 2024</i>.'
+citation: 'Schroeder M., Prinz, R., Binder, M., Winkler, M, Schellander, H. (2024). &quot;Continuous Snow Water Equivalent Monitoring on Glaciers using Cosmic Ray Neutron Sensor Technology: A Case Study on Hintereisferner, Austria.&quot; <i>Proceedings, International Snow Science Workshop, Tromso, Norway, 2024</i>.'
 ---
