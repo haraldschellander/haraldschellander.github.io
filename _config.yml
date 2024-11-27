@@ -12,7 +12,7 @@ title                    : "Harald Schellander / Meteorologist"
 title_separator          : "-"
 name                     : &name "Harald Schellander"
 description              : &description "I work as scientist at the interface between climatology, hydrology and statistics, with an emphasis on (spatial) extremes."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://haraldschellander.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -27,7 +27,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Austria"
   employer         : "GeoSphere Austria"
-  uri              : "geosphere.at"
+  uri              : "https://www.geosphere.at"
   email            : "harald.schellander@geosphere.at" 
 
   # Academic websites
