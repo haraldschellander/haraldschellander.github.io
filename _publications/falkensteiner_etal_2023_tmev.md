@@ -1,0 +1,14 @@
+---
+title: "Accounting for seasonality in the metastatistical extreme value distribution"
+collection: publications
+category: manuscripts
+permalink: /publication/falkensteiner_etal_2023_tmev
+excerpt: ""
+date: 20123-12-01
+venue: 'Weather and Climate Extremes'
+#slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://doi.org/10.1016/j.wace.2023.100601'
+citation: 'Falkensteiner, M-A., Schellander, H., Ehrensperger, G., & Hell, T. (2023). &quot;Accounting for seasonality in the metastatistical extreme value distribution.&quot; <i>Weather and Climate Extremes, Volume 42, December 2023, 100601.</i>.'
+---
+
+The typical approach to account for non-stationarity in the generalized extreme value distribution (GEV) is to model the temporal behavior of the GEV parameters, e. g.,with linear relationships between the parameters and e. g.,the year. When in addition, seasonality, i. e., sub-yearly patterns are of interest, this relationship needs to be more complex. A natural candidate for nonstationary analysis of precipitation extremes is the metastatistical extreme value distribution (MEVD) assuming the ordinary rainfall events being Weibull distributed. It uses all ordinary events of the underlying rainfall distribution and implicitly considers temporal nonstationary changes in the Weibull parameters by a blockwise estimation. However, the MEVD still does not make use of the sub-yearly evolution of the distribution parameters and thus discards a significant part of information. In this paper a modification of the MEVD is proposed. The temporal MEVD (TMEV) relaxes the assumption of constant coefficients of the underlying distribution. The MEVD in each block estimates the Weibull parameters using the number of wet events in that block, regardless whether an individual wet day contributes much or less to the yearly rainfall sum. The newly proposed TMEV weights the single wet days contributions during parameter estimation and is therefore able to explicitly account for seasonal differences of rainfall events. It is shown that the TMEV provides a very similar error characteristic to the simplified MEVD for the estimation of quantiles with different sample lengths. In addition, we demonstrate the ability of the TMEV to identify longterm trends and seasonal variations of extreme precipitation in Austria and discuss possible implications for general trend estimations. We also present a spatio-temporal TMEV model, which is able to reproduce known patterns of a 50-year return level map of daily rainfall in Austria, thereby lending credence to the TMEV approach.
