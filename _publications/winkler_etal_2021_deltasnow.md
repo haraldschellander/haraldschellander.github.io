@@ -2,7 +2,7 @@
 title: "Snow water equivalents exclusively from snow depths and their temporal changes: the Δsnow model"
 collection: publications
 category: manuscripts
-permalink: /publication/swinkler_etal_2021_deltasnow
+permalink: /publication/winkler_etal_2021_deltasnow
 excerpt: ''
 date: 2021-05-03
 venue: 'Hydrology and Earth System Sciences'

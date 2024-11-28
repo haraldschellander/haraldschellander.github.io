@@ -11,35 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Atmospheric Sciences, University of Innsbruck, 2020
+* Mag. in Meteorology, University of Innsbruck, 1997
+* UIAGM/IVBV Professional Mountain Guide, Austria, 1991
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023 to present: Division Head Climate and Environment  
+  * GeoSphere Austria
+  * Regional center for Tyrol and Vorarlberg 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016 to 2022: Division Head Climate and Environment  
+  * ZAMG, Zentralanstalt für Meteorologie und Geophysik, Austria
+  * Customer Service Center for Tyrol and Vorarlberg 
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2000 to 2015: Meteorologist 
+  * ZAMG, Zentralanstalt für Meteorologie und Geophysik, Austria
+  * Regional center for Tyrol and Vorarlberg 
+
+* 1997 to 2000: Research Assistant
+  * University of Innsbruck, Institute of Meteorology und Geophysics
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+# Skills
+# ======
+# * Skill 1
+# * Skill 2
+#   * Sub-skill 2.1
+#   * Sub-skill 2.2
+#   * Sub-skill 2.3
+# * Skill 3
 
 Publications
 ======
@@ -53,12 +53,4 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
