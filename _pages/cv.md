@@ -32,14 +32,6 @@ Work experience
 * 1997 to 2000: Research Assistant
   * University of Innsbruck, Institute of Meteorology und Geophysics
   
-# Skills
-# ======
-# * Skill 1
-# * Skill 2
-#   * Sub-skill 2.1
-#   * Sub-skill 2.2
-#   * Sub-skill 2.3
-# * Skill 3
 
 Publications
 ======
@@ -47,7 +39,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Talks and Presentations
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Applied research at GeoSphere Austria"
+title: "Applied research in Climatology, Hydrology and Statistics"
 author_profile: true
 redirect_from: 
   - /about/
