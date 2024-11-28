@@ -3,7 +3,7 @@ title: "Snow water equivalents exclusively from snow depths and their temporal c
 collection: publications
 category: manuscripts
 permalink: /publication/swinkler_etal_2021_deltasnow
-#excerpt: ''
+excerpt: 'Summary'
 date: 2021-05-03
 venue: 'Hydrology and Earth System Sciences'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
