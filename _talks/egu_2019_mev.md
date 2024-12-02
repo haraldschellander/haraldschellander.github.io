@@ -5,7 +5,7 @@ collection: talks
 type: "Poster"
 permalink: /talks/egu_2019_mev
 venue: "EGU General Assembly 2019"
-date: 2019-05
+date: 2019-05-01
 location: "Vienna, Austria"
 ---
 
