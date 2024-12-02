@@ -14,7 +14,7 @@ I work at the interface between climatology, hydrology and statistics, with an e
 
 # Current research topics
 - Statistics of meteorological extremes
-- Physical process based snow models 
 - Climatology of snow and related processes
+- Physical process based snow models 
 - Geospatial statistics
 

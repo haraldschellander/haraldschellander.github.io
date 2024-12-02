@@ -1,14 +1,14 @@
 ---
-title: "Local trends of snow water equivalents in the Alps"
+title: "Snow height monitoring in coastal Greenland – datasets, scales and climatic drivers"
 collection: talks
-type: "Talk"
-permalink: /talks/egu_2022_swe_trends
+type: "Poster"
+permalink: /talks/egu_2022_greenl
 venue: "EGU General Assembly 2022"
-date: 2022-05-27
+date: 2022-05-25
 location: "Vienna, Austria"
 ---
 
-[Further info](https://doi.org/10.5194/egusphere-egu23-7626)
+[Further info](https://doi.org/10.5194/egusphere-egu22-3839)
 
 The spatial and temporal snow mass variation is clearly indicated as knowledge gap by the “IPCC Special Report on the Ocean and Cryosphere in a Changing Climate”, thus impeding current efforts to quantify historic and future trends. This is especially true for the Alps, which are very rich in snow depth (HS) records (both in number and length), but notoriously lack the same for snow water equivalent (SWE) observations.
 
