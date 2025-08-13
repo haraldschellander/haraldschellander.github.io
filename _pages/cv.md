@@ -11,19 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Atmospheric Sciences, University of Innsbruck, 2020
+* Ph.D. in Atmospheric Sciences, University of Innsbruck, 2020
 * Mag. in Meteorology, University of Innsbruck, 1997
 * UIAGM/IVBV Professional Mountain Guide, Austria, 1991
 
 Work experience
 ======
-* 2023 to present: Division Head Climate and Environment  
-  * GeoSphere Austria
-  * Regional center for Tyrol and Vorarlberg 
+* 2023 to present: Team Leader Climate and Environment at Regional center for Tyrol and Vorarlberg   
+  * GeoSphere Austria  
 
-* 2016 to 2022: Division Head Climate and Environment  
+* 2016 to 2022: Division Head Climate and Environment at Customer Service Center for Tyrol and Vorarlberg
   * ZAMG, Zentralanstalt für Meteorologie und Geophysik, Austria
-  * Customer Service Center for Tyrol and Vorarlberg 
 
 * 2000 to 2015: Meteorologist 
   * ZAMG, Zentralanstalt für Meteorologie und Geophysik, Austria
