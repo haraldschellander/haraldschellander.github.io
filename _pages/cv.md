@@ -17,6 +17,8 @@ Education
 
 Work experience
 ======
+* 2026 to present: Deputy Head Regional center for Tyrol and Vorarlberg   
+  * GeoSphere Austria  
 * 2023 to present: Team Leader Climate and Environment at Regional center for Tyrol and Vorarlberg   
   * GeoSphere Austria  
 
